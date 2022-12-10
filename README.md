@@ -1,4 +1,4 @@
-
+#the name of the turtle is mira
 for i in range(0,8):
     #creates the shape of the snowflake
     mira.forward(100*size/100)
