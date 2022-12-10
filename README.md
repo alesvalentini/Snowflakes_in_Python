@@ -1,5 +1,4 @@
-# Snowflakes_in_Python
-#Beautiful snowflakes for python with turtle
+
 for i in range(0,8):
     #creates the shape of the snowflake
     mira.forward(100*size/100)
